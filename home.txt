@@ -1,3 +1,4 @@
 
-this line is being added through remote repo
+this line is being added through remote repo.
+--git manageing multiple commits.
 
